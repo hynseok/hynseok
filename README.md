@@ -1,5 +1,3 @@
-https://hyunsuko.notion.site/4dc22124318a450a8f90491820c16fe9?pvs=73
-
 https://hynseok.notion.site/CodeSeries-124929673dd3804bbe7bccfb9870cd40?pvs=4
 
 <!--
