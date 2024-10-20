@@ -1,3 +1,4 @@
+https://hyunsuko.notion.site/4dc22124318a450a8f90491820c16fe9?pvs=73
 <!--
 **hynseok/hynseok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
