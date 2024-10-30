@@ -1,5 +1,3 @@
-https://hynseok.notion.site/CodeSeries-124929673dd3804bbe7bccfb9870cd40?pvs=4
-
 <!--
 **hynseok/hynseok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
