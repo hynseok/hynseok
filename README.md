@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 <img width="2906" height="1335" alt="2" src="https://github.com/user-attachments/assets/295a2613-800d-4041-b6b8-7736b34f784b" />
 <img src="https://github.com/user-attachments/assets/bbe1edb3-aec3-4a84-874e-402924d37928" width="500"/>
 
-- **CPU**: Ryzen 9 9950x
+- **CPU**: AMD Ryzen™ 9 9950X
 - **Memory**: Samsung DDR5 5600MHz 32GB * 2
