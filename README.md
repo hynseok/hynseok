@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 
 - **CPU**: AMD Ryzen™ 9 9950X
 - **Memory**: Samsung DDR5 5600MHz 32GB * 2
+- **Ethernet Speed**: 1Gbps Full-duplex
